@@ -114,5 +114,16 @@ color: #ff7700;
     text-align: center
 }
 
+#aluminiList img
+{
+height:250px;
+}
+#logo img{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;    
+    margin-top: -13px;
+    }
+
 
 
